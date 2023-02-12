@@ -2,6 +2,6 @@ package main
 
 
 func main(){
-	fmt.print("main-dev-dev-v2")
+	fmt.print("dev-v3")
 	fmt.print("main-demo")
 }
