@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fe885c5-6f6b-4069-bff8-4b8327705a56" name="Default Changelist" comment="Merge branch 'main' into dev&#10;&#10;# Conflicts:&#10;#&#9;main.go">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test-git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="demo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,6 +65,7 @@
     <MESSAGE value="test hahahh" />
     <MESSAGE value="2222222222222222" />
     <MESSAGE value="dddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dddd" />
+    <MESSAGE value="Merge branch 'main' into dev&#10;&#10;# Conflicts:&#10;#&#9;main.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into dev&#10;&#10;# Conflicts:&#10;#&#9;main.go" />
   </component>
 </project>
