@@ -2,5 +2,5 @@ package main
 
 
 func main(){
-	fmt.print("main-demo-v5")
+	fmt.print("main-dev-v6")
 }
