@@ -2,5 +2,5 @@ package main
 
 
 func main(){
-	fmt.print("liangfujian")
+	fmt.print("liangfujianliang")
 }
