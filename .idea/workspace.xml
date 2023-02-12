@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="demo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +63,7 @@
     <MESSAGE value="test hahahh" />
     <MESSAGE value="2222222222222222" />
     <MESSAGE value="dddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dddd" />
+    <MESSAGE value="Merge branch 'main' into dev&#10;&#10;# Conflicts:&#10;#&#9;main.go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' into dev&#10;&#10;# Conflicts:&#10;#&#9;main.go" />
   </component>
 </project>
